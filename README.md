@@ -1,2 +1,0 @@
-# dashWeb
-Dash demo app
